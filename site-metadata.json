@@ -2,7 +2,7 @@
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "title": "Stackbit DIY Theme",
     "domain": "https://amazing-robin-3ab59.netlify.app"
